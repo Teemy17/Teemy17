@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Teemy17
-Still in learning process.
+
+- Still in learning process.
 
 <!---
 Teemy17/Teemy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
