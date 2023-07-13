@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Teemy17
-
+- Software Engineering student at KMITL
 - Still in learning process.
 
 <!---
