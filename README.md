@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Teemy17
-- Software Engineering student at KMITL
-- Still in learning process.
+
 
 <!---
 Teemy17/Teemy17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +8,9 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Bruh moment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teemy17&label=Profile%20views&color=0e75b6&style=flat" alt="teemy17" /> </p>
+- 👋 Hi, I’m @Teemy17
+
+- Software Engineering student at KMITL
 
 - 🌱 I’m currently learning **Rust, Python and looking to learn more programming languages**
 
