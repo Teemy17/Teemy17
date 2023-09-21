@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rikuokami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikuokami" height="30" width="40" /></a>
-<a href="https://fb.com/teemy subarashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teemy subarashi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pannawat.yorkhant.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="teemy subarashi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
