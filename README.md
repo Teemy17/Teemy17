@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - Software Engineering student at KMITL
 
-- I’m currently learning **Rust, Python and looking to learn more programming languages**
+
 
 
 
