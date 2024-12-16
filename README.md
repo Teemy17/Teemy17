@@ -7,7 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/823413081040355332/1314952811032743946/mizuki.png?ex=6755a4bc&is=6754533c&hm=edefaa9b0b1357f0fb3e33d5d0a7783fe153f00fa82db7da31ff40cda3ebfded&=&width=1206&height=689"  />
+  <img src="https://github.com/Teemy17/Teemy17/blob/main/mizuki_ena5.png?raw=true"/>
+  
 </div>
 
 ###
