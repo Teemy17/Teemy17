@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Teemy17/Teemy17/blob/main/juo_sena.png"/>
+  <img src="https://github.com/Teemy17/Teemy17/blob/main/juo_sena.jpg"/>
 </div>
 
 ###
